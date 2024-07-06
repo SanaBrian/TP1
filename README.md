@@ -28,3 +28,5 @@ Tmin.
 * UART: Se utiliza para enviar un registro de temperatura a la PC
 
 **Diagrama en bloques:**
+
+<image src="https://github.com/SanaBrian/TP1/blob/master/Esquema_tp1.PNG" alt="Esquema">
