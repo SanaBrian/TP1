@@ -37,7 +37,7 @@ void initOuputs();
 void checkOverHeating();
 void checkOverCooling();
 void checkRegTime();
-int tempConverter(float ratio);                                 //El ratio es la señal analógica convertida a digital entre 0.0 y 1.0
+int tempConverter(float ratio);                                //El ratio es la señal analógica convertida a digital entre 0.0 y 1.0
 void samplerAverager();    
 
 
